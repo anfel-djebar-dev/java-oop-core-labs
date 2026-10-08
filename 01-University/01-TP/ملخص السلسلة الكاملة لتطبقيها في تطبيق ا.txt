@@ -1,0 +1,16 @@
+ملخص السلسلة الكاملة لتطبقيها في تطبيق الجامعة (CMD):
+إذا أخذ الأستاذ الحاسوب وفتح الـ CMD، المسار والمستند سيكون كالآتي:
+
+الانتقال للمجلد المطلوب:
+
+Bash
+cd C:\path\to\your\folder
+الترجمة:
+
+Bash
+javac Affiche.java
+التشغيل مع المدخلات:
+
+Bash
+java Affiche Anfel Djebar
+جربي تنفيذ الأمرين السابقتين (javac Affiche.java ثم java Affiche Anfel Djebar) الآن في Terminal الـ VS Code بعد التأكد من أنكِ داخل المجلد 01-TP!
